@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Niranjan
 <h1 align="center">
