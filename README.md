@@ -36,6 +36,27 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kaviyadharshini1211/Kaviyadharshini1211/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kaviyadharshini1211/Kaviyadharshini1211/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kaviyadharshini1211/Kaviyadharshini1211/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
+<div align="center">
+---
+💬 Let's Connect & Build Something Awesome!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-d-54a7a3313/)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanlithikasan937@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
